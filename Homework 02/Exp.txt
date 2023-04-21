@@ -1,0 +1,5 @@
+1. Kullandığınız platform ne olursa olsun  ipynb dosyasını yükleyiniz.
+2. Her bir soru parçacığı için farklı ipynb dosyası ve rapor hazırlanmamalı, tek bir python dosyası (ipynb)  ve tek bir pdf raporu hazırlamanız gerekmektedir.
+3. Python dosyası ve Raporların isimlendirmelerine dikkat edilmesi 
+4. Raporun formatına uygun olarak hazırlanması beklenilmekte ve rapora sadece resim koymayınız. Sadece resim gönderirseniz notunuz düşebilir. Raporda elde edilen sonuç veya resimlere yorum eklemeniz gerekmektedir. 
+5- Tek bir tane zip dosyası göndereceksiniz; içinde ipynb ve pdf dosyası olacak.
